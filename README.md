@@ -1,4 +1,6 @@
 [![MasterHead](./profile-header.png)](https://mjt-portfolio.web.app)
+<h1 align="center">Hi 👋, I'm Merv</h1>
+<h3 align="center">A software engineer and a computer engineering instructor from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="./future-coding-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdesolate&label=Profile%20views&color=0e75b6&style=flat" alt="jdesolate" /> </p>
