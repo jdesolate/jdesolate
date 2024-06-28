@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdesolate&label=Profile%20views&color=0e75b6&style=flat" alt="jdesolate" /> </p>
 
-- 🔭 I’m currently working on **Project Tracker**
+- 🔭 I’m currently working on **MSADH2 & Pitikitikitik**
 
 - 🌱 I’m currently learning **MERN, AI, Data Analysis**
 
