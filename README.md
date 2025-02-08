@@ -1,5 +1,5 @@
 <h1 align="center">Greetings👋</h1>
-<h3 align="center">I'm X from Cebu City, Philippines</h3>
+<h3 align="center">I'm MJ Tampus from Cebu City, Philippines</h3>
 <img align="right" alt="Coding" width="400" src="timeless-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdesolate&label=Profile%20views&color=0e75b6&style=flat" alt="jdesolate" /> </p>
